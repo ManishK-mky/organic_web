@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Organic Eggs",
+      "price": "$15.99",
+      "rating": 4.5,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/eggs-300x300.jpg",
+      "category": "Groceries"
+    },
+    {
+      "id": 2,
+      "name": "Orange Juice Kariz",
+      "price": "$32.49",
+      "rating": 4.7,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz.jpg",
+      "category": "Beverages"
+    },
+    {
+      "id": 3,
+      "name": "Organic Honey",
+      "price": "$28.99",
+      "rating": 4.8,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/organic-honey-300x300.jpg",
+      "category": "Pantry"
+    },
+    {
+      "id": 4,
+      "name": "Cashew Butter",
+      "price": "$36.49",
+      "rating": 4.6,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/cashew-butter-500-300x300.jpg",
+      "category": "Snacks"
+    },
+    {
+      "id": 5,
+      "name": "Diabetic Cookies",
+      "price": "$34.99",
+      "rating": 4.4,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/diabetic-cookies-300x300.jpg",
+      "category": "Bakery"
+    },
+    {
+      "id": 6,
+      "name": "Assorted Coffee",
+      "price": "$12.99",
+      "rating": 4.7,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted-300x300.jpg",
+      "category": "Groceries"
+    },
+    {
+      "id": 7,
+      "name": "Hand Sanitizer",
+      "price": "$25.99",
+      "rating": 4.5,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-300x300.jpg",
+      "category": "Groceries"
+    },
+    {
+      "id": 8,
+      "name": "Red Chillies",
+      "price": "$28.99",
+      "rating": 4.8,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/red-chillies-300x300.jpg",
+      "category": "Groceries"
+    },
+    {
+      "id": 9,
+      "name": "Edible Oil",
+      "price": "$15.99",
+      "rating": 4.6,
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/edible-oil-300x300.jpg",
+      "category": "Groceries"
+    }
+]
