@@ -17,7 +17,7 @@ function Footer() {
             <div className="text-[27px] text-white">
               <h1>Quick Links</h1>
             </div>
-            <div className="mt-[21px] text-[15px]">
+            <div className="mt-[15px] text-[15px]">
               <p>About</p>
               <p>Cart</p>
               <p>Checkout</p>
@@ -31,7 +31,7 @@ function Footer() {
               <div className="text-[27px] text-white ">
                 <h1>Site Links</h1>
               </div>
-              <div className="mt-[21px] text-[15px]">
+              <div className="mt-[15px] text-[15px]">
                 <p>Privacy Policy</p>
                 <p>Shipping Details</p>
                 <p>Offers Coupons</p>
@@ -61,7 +61,7 @@ function Footer() {
               <p>Locate Store</p>
             </div>
           </div>
-          <div className="w-[100%] h-[20%] flex">
+          <div className="w-[100%] h-[20%] flex mt-[12px]">
             <div className="">
               <img src="https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/play-store.png" alt="" />
             </div>
