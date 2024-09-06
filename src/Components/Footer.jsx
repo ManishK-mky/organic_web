@@ -41,7 +41,7 @@ function Footer() {
         </div>
       </div>
       <div className="w-[40%] h-[100%] flex justify-center items-center">
-        <div className="w-[60%] h-[60vh] flex flex-col gap-y-[100px]">
+        <div className="w-[60%] h-[60vh] flex flex-col gap-y-[50px]">
           <div className="w-[100%] h-[45%]">
             <div className="text-[27px] text-white">
               <h1>Download Our Mobile App</h1>
