@@ -12,7 +12,7 @@ function Footer() {
         </div>
       </div>
       <div className="w-[15%] h-[100%] flex justify-center items-center">
-        <div className="w-[60%] h-[60vh] flex flex-col">
+        <div className="w-[60%] h-[60vh] flex flex-col gap-y-[120px]">
           <div className="w-[100%] h-[50%]">
             <div className="text-[27px] text-white">
               <h1>Quick Links</h1>
@@ -27,7 +27,7 @@ function Footer() {
               <p>Shop</p>
             </div>
           </div>
-          <div className="w-[100%] h-[50%] mt-[60px]">
+          <div className="w-[100%] h-[50%]">
               <div className="text-[27px] text-white ">
                 <h1>Site Links</h1>
               </div>
