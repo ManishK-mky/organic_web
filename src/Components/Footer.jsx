@@ -17,7 +17,7 @@ function Footer() {
             <div className="text-[27px] text-white">
               <h1>Quick Links</h1>
             </div>
-            <div className="mt-[21px]">
+            <div className="mt-[21px] text-[15px]">
               <p>About</p>
               <p>Cart</p>
               <p>Checkout</p>
@@ -27,11 +27,11 @@ function Footer() {
               <p>Shop</p>
             </div>
           </div>
-          <div className="w-[100%] h-[50%] mt-[45px]">
-              <div className="text-[27px] text-white">
+          <div className="w-[100%] h-[50%] mt-[60px]">
+              <div className="text-[27px] text-white ">
                 <h1>Site Links</h1>
               </div>
-              <div className="mt-[21px]">
+              <div className="mt-[21px] text-[15px]">
                 <p>Privacy Policy</p>
                 <p>Shipping Details</p>
                 <p>Offers Coupons</p>
