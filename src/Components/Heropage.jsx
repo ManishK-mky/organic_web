@@ -6,7 +6,7 @@ function Heropage() {
     <div className='w-[100%] h-[50vh] lg:h-[80vh] flex items-center'>
         <div className="w-[50%] h-[60%] lg:h-[100%] p-3">
             <div className="w-[100%] h-[90%] bg-white flex justify-end items-center ml-[12px]">
-                <img className="w-[90%] h-[100%]" src="https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/organic-products-hero.png" alt="" />
+                <img className="w-[80%] h-[100%]" src="https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/organic-products-hero.png" alt="" />
             </div>
         </div>
         <div className="w-[50%] lg:h-[90%] h-[60%] flex flex-col justify-center ml-[30px]">
