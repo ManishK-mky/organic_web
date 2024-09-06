@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='w-[100%] h-[90vh] bg-black flex text-gray-400'>
+    <div className='w-[100%] h-[100vh] bg-black flex text-gray-400'>
       <div className="w-[45%] h-[100%] flex flex-col justify-center items-center">
         <div className="w-[50%]">
           <img src="https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/07/organic-store-white-logo.png" alt="" />
@@ -12,7 +12,7 @@ function Footer() {
         </div>
       </div>
       <div className="w-[15%] h-[100%] flex justify-center items-center">
-        <div className="w-[60%] h-[60vh] flex flex-col gap-y-[120px]">
+        <div className="w-[60%] h-[60vh] flex flex-col gap-y-[100px]">
           <div className="w-[100%] h-[50%]">
             <div className="text-[27px] text-white">
               <h1>Quick Links</h1>
